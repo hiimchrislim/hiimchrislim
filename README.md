@@ -8,4 +8,7 @@ I'm a Computer Science Student at the University of Toronto
 
 
 <!--START_SECTION:waka-->
+```text
+
+```
 <!--END_SECTION:waka-->
