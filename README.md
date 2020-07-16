@@ -9,10 +9,10 @@ I'm a Computer Science Student at the University of Toronto
 
 <!--START_SECTION:waka-->
 ```text
-Go          7 hrs 18 mins       ███████████████████████░░   93.97 
-Markdown    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.21 
-TypeScript  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4 
-SQL         5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16 
-Python      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18
+Go          8 hrs 14 mins       ███████████████████████░░   94.59 
+Markdown    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.87 
+TypeScript  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25 
+SQL         5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.04 
+Python      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16
 ```
 <!--END_SECTION:waka-->
