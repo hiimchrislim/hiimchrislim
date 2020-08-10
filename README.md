@@ -8,11 +8,11 @@ I'm a Computer Science Student at the University of Toronto
 
 <!--START_SECTION:waka-->
 ```text
-Go         12 hrs 8 mins   ██████████████████░░░░░░░   72.86 % 
-YAML       2 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Markdown   1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-Other      18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Docker     18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Go         12 hrs 29 mins  ███████████████████░░░░░░   77.01 % 
+YAML       2 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Markdown   46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Other      22 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Docker     18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 <!--END_SECTION:waka-->
 
