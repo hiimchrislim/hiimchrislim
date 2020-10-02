@@ -1,7 +1,7 @@
 # Hi there! 👋
 I'm a Computer Science Student at the University of Toronto
 
-- 💻 Currently working on [UTM-CSSC](https://github.com/UTM-CSSC)
+- 💻 Currently working on the [UTM-CSSC Website](https://github.com/UTM-CSSC) and [BackupCLI](https://github.com/hiimchrislim/BackupCLI)
 - 🔨 Actively maintaining [2ofClubsApp](https://github.com/2ofClubsApp)
 - ✉️ You can reach me at: [@hiimchrislim](mailto:hello@hiimchrislim.co)
 
