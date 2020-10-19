@@ -9,8 +9,10 @@ I'm a Computer Science Student at the University of Toronto
 
 <!--START_SECTION:waka-->
 ```text
-Python   44 mins         █████████████████████▓░░░   86.07 % 
-Go       7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Python       44 mins         ███████████████████░░░░░░   75.93 % 
+JavaScript   7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Vue.js       3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Go           2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 ```
 <!--END_SECTION:waka-->
 
