@@ -9,11 +9,10 @@ I'm a Computer Science Student at the University of Toronto
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   4 hrs 20 mins   ████████████████▓░░░░░░░░   66.12 % 
-Vue.js     1 hr 42 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.07 % 
-JSON       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-YAML       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Python     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Markdown   4 hrs 20 mins   █████████████████▒░░░░░░░   69.55 % 
+Vue.js     1 hr 42 mins    ███████░░░░░░░░░░░░░░░░░░   27.37 % 
+Python     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+CSS        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 ```
 <!--END_SECTION:waka-->
 
