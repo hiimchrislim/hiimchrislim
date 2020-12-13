@@ -9,11 +9,8 @@ I'm a Computer Science Student at the University of Toronto
 
 <!--START_SECTION:waka-->
 ```text
-C            2 hrs 32 mins   ████████████████░░░░░░░░░   63.53 % 
-Python       1 hr 12 mins    ███████▓░░░░░░░░░░░░░░░░░   30.45 % 
-Markdown     10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-Text         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Python     29 mins         ████████████████▓░░░░░░░░   66.61 % 
+C          14 mins         ████████░░░░░░░░░░░░░░░░░   32.15 % 
 ```
 <!--END_SECTION:waka-->
 
