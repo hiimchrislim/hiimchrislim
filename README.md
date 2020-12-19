@@ -9,7 +9,7 @@ I'm a Computer Science Student at the University of Toronto
 
 <!--START_SECTION:waka-->
 ```text
-Python     44 mins         ████████████████████████▓   98.78 % 
+Python   15 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
