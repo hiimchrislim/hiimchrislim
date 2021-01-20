@@ -8,7 +8,8 @@ I'm a Computer Science Student at the University of Toronto
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js     4 mins          ██████████████████████▓░░   90.36 % 
+Python     35 mins         ██████████████████████░░░   88.60 % 
+Vue.js     4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
 ```
 <!--END_SECTION:waka-->
 
