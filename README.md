@@ -7,10 +7,10 @@ I'm a Computer Science Student at the University of Toronto
 
 <!--START_SECTION:waka-->
 ```text
-Python         20 hrs 46 mins  ███████████████████████▒░   93.98 % 
-Other          1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-HTML           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-Image (jpeg)   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Python         21 hrs 59 mins  ███████████████████████▓░   94.24 % 
+Other          1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+HTML           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Image (jpeg)   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 CSS            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 <!--END_SECTION:waka-->
