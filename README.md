@@ -7,11 +7,11 @@ I'm a Computer Science Student at the University of Toronto
 
 <!--START_SECTION:waka-->
 ```text
-Java         15 hrs 15 mins  ████████████████████████░   95.57 % 
-Markdown     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-XML          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-JavaScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-HTML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Java         20 hrs 53 mins  ████████████████████▒░░░░   81.68 % 
+JavaScript   2 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+CSS          1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Other        45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+JSON         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 <!--END_SECTION:waka-->
 
