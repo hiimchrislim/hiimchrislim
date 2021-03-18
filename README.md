@@ -7,10 +7,10 @@ I'm a Computer Science Student at the University of Toronto
 
 <!--START_SECTION:waka-->
 ```text
-Java         7 hrs 17 mins   ████████████████████████░   95.38 % 
-Git Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-SQL          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Java         6 hrs 32 mins   ███████████████████████▓░   94.87 % 
+Git Config   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+SQL          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 ```
 <!--END_SECTION:waka-->
 
