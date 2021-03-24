@@ -7,7 +7,8 @@ I'm a Computer Science Student at the University of Toronto
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   1 min           ██████████████████▓░░░░░░   74.13 % 
+JavaScript   2 hrs 5 mins    ████████████████████████▓   98.05 % 
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 ```
 <!--END_SECTION:waka-->
 
