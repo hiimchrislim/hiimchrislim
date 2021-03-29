@@ -7,10 +7,10 @@ I'm a Computer Science Student at the University of Toronto
 
 <!--START_SECTION:waka-->
 ```text
-Python       4 hrs 8 mins    █████████████▒░░░░░░░░░░░   53.48 % 
-JavaScript   2 hrs 57 mins   █████████▓░░░░░░░░░░░░░░░   38.12 % 
-Java         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Docker       18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Python       5 hrs 7 mins    ██████████████▓░░░░░░░░░░   58.72 % 
+JavaScript   2 hrs 57 mins   ████████▒░░░░░░░░░░░░░░░░   33.83 % 
+Java         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Docker       18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 ```
 <!--END_SECTION:waka-->
 
