@@ -4,6 +4,7 @@ I'm a Computer Science Student at the University of Toronto
 - 💻 Currently working on my [personal website](https://hiimchrislim.co)
 - 🔨 Maintaining [2ofClubsApp](https://github.com/2ofClubsApp)
 - ✉️ You can reach me here [@hiimchrislim](mailto:hello@hiimchrislim.co)
+- 👨 Advisor for [CSSC (The Computer Science Student Community)](https://cssc.utm.utoronto.ca) 
 
 <!--START_SECTION:waka-->
 ```text
