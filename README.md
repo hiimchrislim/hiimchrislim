@@ -5,6 +5,7 @@ I'm a Computer Science Student at the University of Toronto
 - 🔨 Maintaining [2ofClubsApp](https://github.com/2ofClubsApp)
 - ✉️ You can reach me here [@hiimchrislim](mailto:hello@hiimchrislim.co)
 - 👨 Advisor for [CSSC (The Computer Science Student Community)](https://cssc.utm.utoronto.ca) 
+- 👨 Community Projects Lead for [DSCUTM](https://dscutm.com)
 
 <!--START_SECTION:waka-->
 ```text
