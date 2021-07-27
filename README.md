@@ -3,10 +3,10 @@ I'm a Computer Science Student at the University of Toronto
 
 - 💻 Currently working on my [personal website](https://hiimchrislim.co)
 - 🔨 Maintaining [2ofClubsApp](https://github.com/2ofClubsApp)
-- ✉️ You can reach me here [@hiimchrislim](mailto:hello@hiimchrislim.co)
-- 👨 Advisor for [CSSC (The Computer Science Student Community)](https://cssc.utm.utoronto.ca) 
 - 👨‍💻 Community Projects Lead for [DSCUTM (Google Developer Student Clubs @ UTM)](https://dscutm.com)
-
+- 👨 Advisor for [CSSC (The Computer Science Student Community)](https://cssc.utm.utoronto.ca) 
+- ✉️ You can reach me here [@hiimchrislim](mailto:hello@hiimchrislim.co)
+- 
 <!--START_SECTION:waka-->
 ```text
 Python       2 hrs 42 mins   █████████████░░░░░░░░░░░░   52.49 % 
