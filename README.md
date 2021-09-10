@@ -8,11 +8,7 @@ I'm a Computer Science Student at the University of Toronto
 
 <!--START_SECTION:waka-->
 ```text
-Python       2 hrs 42 mins   █████████████░░░░░░░░░░░░   52.49 % 
-TypeScript   2 hrs 19 mins   ███████████▒░░░░░░░░░░░░░   45.12 % 
-JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
