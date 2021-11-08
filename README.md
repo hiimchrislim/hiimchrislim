@@ -8,11 +8,11 @@ I'm a Computer Science Student at the University of Toronto
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   25 hrs 26 mins  ███████████████████████░░   91.82 % 
-Docker       44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-Bash         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-CSS          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+TypeScript   25 hrs 6 mins   ███████████████████████░░   91.72 % 
+Docker       44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Bash         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+CSS          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 ```
 <!--END_SECTION:waka-->
 
