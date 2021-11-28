@@ -8,9 +8,8 @@ I'm a Computer Science Student at the University of Toronto
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   5 hrs 25 mins   ███████████████████████▓░   94.03 % 
-JSON         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-Other        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+TypeScript   4 hrs 52 mins   ████████████████████████▓   98.64 % 
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 ```
 <!--END_SECTION:waka-->
 
