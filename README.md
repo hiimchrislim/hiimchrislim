@@ -8,9 +8,9 @@ I'm a Computer Science Student at the University of Toronto
 
 <!--START_SECTION:waka-->
 ```text
-Python       2 hrs 59 mins   ████████████▓░░░░░░░░░░░░   50.13 % 
-Java         2 hrs 39 mins   ███████████░░░░░░░░░░░░░░   44.57 % 
-Text         18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Java     2 hrs 39 mins   ██████████████▓░░░░░░░░░░   58.08 % 
+Python   1 hr 44 mins    █████████▓░░░░░░░░░░░░░░░   38.04 % 
+Text     10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 ```
 <!--END_SECTION:waka-->
 
