@@ -2,7 +2,7 @@ name: Update Stats
 
 on:
   schedule:
-    # Runs at 12am UTC
+    # Runs at 12am EST
     - cron: '0 5 * * *'
 
 jobs:
