@@ -9,7 +9,7 @@ I'm a Computer Science Student at the University of Toronto
 <!--START_SECTION:waka-->
 ```text
 TypeScript   1 hr 9 mins     ████████████████████████▒   97.71 % 
-JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 ```
 <!--END_SECTION:waka-->
 
