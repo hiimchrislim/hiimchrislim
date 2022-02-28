@@ -7,9 +7,11 @@ I'm a Computer Science Student at the University of Toronto
 - ✉️ You can reach me here [@hiimchrislim](mailto:hello@hiimchrislim.co)
 
 <!--START_SECTION:waka-->
-```text
 
+```text
+JavaScript   0 secs          █████████████████████████   100.00 %
 ```
+
 <!--END_SECTION:waka-->
 
 <div align="center">
