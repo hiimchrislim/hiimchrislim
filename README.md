@@ -9,7 +9,8 @@ I'm a Computer Science Student at the University of Toronto
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   28 mins         ███████████████████▓░░░░░   78.27 %
+HTML         7 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.73 %
 ```
 
 <!--END_SECTION:waka-->
