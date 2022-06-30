@@ -9,7 +9,8 @@ I'm a Computer Science Student at the University of Toronto
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+YAML   20 mins         ████████████████████████░   95.80 %
+Text   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
 ```
 
 <!--END_SECTION:waka-->
