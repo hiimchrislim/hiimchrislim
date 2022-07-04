@@ -9,8 +9,8 @@ I'm a Computer Science Student at the University of Toronto
 <!--START_SECTION:waka-->
 
 ```text
-YAML   20 mins         ████████████████████████░   95.80 %
-Text   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+YAML   26 mins         █████████████████░░░░░░░░   67.86 %
+Text   12 mins         ████████░░░░░░░░░░░░░░░░░   32.14 %
 ```
 
 <!--END_SECTION:waka-->
