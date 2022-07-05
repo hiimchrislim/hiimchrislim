@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 - 💻 Currently working on my [personal website](https://hiimchrislim.co)
-- 🎓 Studied Computer Science @ The University of Toronto
+- 🎓 Studied Computer Science @ [The University of Toronto](https://www.utoronto.ca/)
 - 🔨 Maintaining [2ofClubsApp](https://github.com/2ofClubsApp) and a [poll voting system for the MCS Department](https://github.com/hiimchrislim/PollVotingSystem)
 - 👨‍💻 Community Projects Lead for [DSCUTM (Google Developer Student Clubs @ UTM)](https://gdscutm.com)
 - ✉️ You can reach me here [@hiimchrislim](mailto:hello@hiimchrislim.co)
