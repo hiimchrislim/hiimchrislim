@@ -1,7 +1,6 @@
 # Hi there! 👋
 
 - 🎓 Studied Computer Science @ [The University of Toronto](https://www.utoronto.ca/)
-- 🔨 Maintaining the [poll voting system](https://github.com/GDSCUTM-CommunityProjects/PollVotingSystem) for the MCS Department
 - 👨‍💻 Advising for [GDSC UTM](https://gdscutm.com)
 - ✉️ You can reach me [here](mailto:hello@hiimchrislim.co)
 
