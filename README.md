@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-- 🎓 Studied Computer Science @ [The University of Toronto](https://www.utoronto.ca/)
+- 🎓 Studied Computer Science @ [The University of Toronto](https://www.utm.utoronto.ca/math-cs-stats/chris-lim)
 - 👨‍💻 Advising for [GDSC UTM](https://gdscutm.com)
 - ✉️ You can reach me [here](mailto:hello@hiimchrislim.co)
 
